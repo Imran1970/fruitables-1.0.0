@@ -1,0 +1,50 @@
+Key Features
+
+Bootstrap 5
+HTML5 & CSS3
+Burger Menu
+Breadcrumbs
+Sticky Top Navigation
+Drop-Down Menu
+Split Header
+Hero Image
+Header Carousel
+Header Search Option
+Tabbed Content
+Product Cards
+Product Carousels
+Sales Banner
+Testimonial Carousel
+Newsletter Subscription UI
+Product Cards
+Category Search Filter
+Pricing Filter
+Pagination UI
+Comment Form UI
+Back-to-top Button
+Geolocation
+Contact Form UI
+Detailed Footer
+Footer Navigation
+Clean Codebase
+SEO-friendly Theme
+Page-speed Optimized
+Multipage Design
+100% Responsive
+Cross-browser Compatible
+
+
+In the Box
+
+8 HTML Pages
+HTML & CSS
+Library & PLugins
+JavaScript Source Files
+Demo Images
+
+Library & Plugins
+
+Bootstrap 5
+LightBox
+OwlCarousel
+jQuery
